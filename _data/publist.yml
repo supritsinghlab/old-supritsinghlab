@@ -1,0 +1,71 @@
+- title: Schwinger effect in Compact Space
+  image: SchwingerCompact.png
+  description: We consider a theory of scalar QED on a spatially compact 1+1-dimensional spacetime and uncover new results for Schwinger mechanism in compact space.
+  authors:
+    Prasant Samantray and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/2010.13453
+    display: arxiv:2010.13453
+  highlight: 1
+  # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Semiclassical cosmology with back reaction the Friedmann-Schrodinger equation and inflation
+  image: 
+  description: 
+  authors:
+    Viqar Husain and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1811.3673
+    display: Phys. Rev. D 99, 086018 (2019)
+  highlight: 0
+  # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Does quantum gravity relate the constants of nature?
+  image: 
+  description: 
+  authors:
+    Viqar Husain and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1807.08704
+    display: IJMPD Vol. 28, No. 01, 1950015 (2019)
+  highlight: 0
+  # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Schwinger Pair Production in Hot Anti-de Sitter Space
+  image: 
+  description: 
+  authors:
+    Prasant Samantray and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1804.04140
+    display: Phys. Rev. D 99, 085006 (2019)
+  highlight: 0
+  # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: On the Penrose inequality in anti-deSitter space
+  image: piads.png
+  description: We formulate Penrose inequality for asymptotically anti-deSitter (AAdS) spacetimes, and show that the inequality holds for time asymmetric data in spherical symmetry. 
+  authors:
+    Viqar Husain and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1709.02395
+    display: Phys. Rev. D 96, 104055 (2017)
+  highlight: 1
+  # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: Multifaceted Schwinger effect in de Sitter space
+  image: prdv90i0208.png
+  description: We consider Schwinger Mechanism in de Sitter space relavant for inflationary phase of early universe. The effect is enhanced in some regimes when electric field works in tandem with gravity on the quantum vacuum.
+  authors:
+    Ramkishor Sharma and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1704.05076
+    display: Phys. Rev. D 96, 025012 (2017)
+  highlight: 1
+  news1: <a style="color:#FF0000" href="https://journals.aps.org/prd/kaleidoscope/prd/96/2/025012"> Featured in a Kaleidoscope Physical Review D.</a>
+  # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras

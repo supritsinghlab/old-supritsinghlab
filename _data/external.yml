@@ -1,0 +1,29 @@
+- name: Viqar Husain
+  photo: Viqar.jpg
+  info: University of New Brunswick Fredericton
+  number_educ: 0
+
+- name: Saloni Deepak
+  photo: bio-photo.jpg
+  info: University of Delhi
+  number_educ: 0 
+
+- name: Sunil Malik
+  photo: bio-photo.jpg
+  info: University of Delhi
+  number_educ: 0
+
+- name: Prasant Samantray
+  photo: Prasant.jpg
+  info: BITS Hyderabad
+  number_educ: 0
+
+- name: T. R. Seshadri
+  photo: Sesh.jpg
+  info: University of Delhi
+  number_educ: 0 
+ 
+- name: Amit Seta
+  photo: Amit.jpg
+  info: Australian National University
+  number_educ: 0 
