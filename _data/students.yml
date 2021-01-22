@@ -11,13 +11,20 @@
 - name: Prakhar Bangaria
   photo: rock.jpg
   info: Project -- Positional Astronomy
-  email: Prakhar.Bangaria.ph118@physics.iitd.ac.in
+  email: 
   number_educ: 1
   education1: B. Tech Engineering Physics III year
 
 - name: Rahul Singh
   photo: rock.jpg
   info: Project -- Numerical solution of Time-dependent Schr<span>&#246;</span>dinger equation
-  email: ph1180831@iitd.ac.in
+  email: 
+  number_educ: 1
+  education1: B. Tech Engineering Physics III year
+
+- name: Sonakshi Gupta
+  photo: rock.jpg
+  info: Project -- Constrained Hamiltonian Systems and Higher Derivative Lagrangians
+  email: 
   number_educ: 1
   education1: B. Tech Engineering Physics III year

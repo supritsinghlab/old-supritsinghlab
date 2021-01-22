@@ -72,7 +72,7 @@ Our reseach spans two categories:
 
 <span>&#8463;</span> = 1: We ponder on questions such as, what is the small scale structure of spacetime and how do matter and gravity interact in the quantum picture? Can we observe quantum effects in gravity in a lab setting? How does classical phenomenon emerge from the underlying quantum relaity?
 
-<span>&#8463;</span> = 0: What is the dynamics and structure of magnetic fields in galaxies ang IGM? Is our Universe expanding at a faster and faster rate? What was the dynamics of Early Universe? We probe the cosmos with multi-wavelength astronomy, modelling, simulations and theoretical insights. We are also involved in instrumentation and data acquisition tasks in optical astronomy.
+<span>&#8463;</span> = 0: What is the dynamics and structure of magnetic fields in galaxies and IGM? Is our Universe expanding at a faster and faster rate? What was the dynamics of Early Universe? We probe the cosmos with multi-wavelength astronomy, modelling, simulations and theoretical insights. We are also involved in instrumentation and data acquisition tasks in optical astronomy.
 
 <!-- For more details see [Research](research). -->
 
