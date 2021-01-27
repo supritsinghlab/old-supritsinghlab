@@ -69,3 +69,83 @@
   highlight: 1
   news1: <a style="color:#FF0000" href="https://journals.aps.org/prd/kaleidoscope/prd/96/2/025012"> Featured in a Kaleidoscope Physical Review D.</a>
   # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+
+- title: From Quantum to Classical in the Sky
+  image: 
+  description:
+  authors:
+    Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1607.02736
+    display: Fundam.Theor.Phys. 187 (2017) 397-409
+  highlight: 0
+  
+- title: It's a dark, dark world -- Background evolution of interacting phiCDM models beyond simple exponential potentials
+  image: 
+  description:
+  authors:
+    Suprit Singh and Parminder Singh
+  link:
+    url: https://arxiv.org/abs/1507.01535
+    display: JCAP 05 (2016) 017
+  highlight: 0
+
+- title: A quantum peek inside the black hole event horizon
+  image: 
+  description:
+  authors:
+    S. Chakraborty, Suprit Singh, and T. Padmanabhan
+  link:
+    url: https://arxiv.org/abs/1503.01774
+    display: JHEP 06 (2015) 192
+  highlight: 0
+
+- title: Excavations at the gravitationally collapsed site -- Recent findings
+  image: 
+  description:
+  authors:
+    Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1412.1028
+    display: J.Phys.Conf.Ser. 600 (2015) 1, 012035
+  highlight: 0
+  
+- title: Black hole kinematics -- The “in”-vacuum energy density and flux for different observers
+  image: 
+  description:
+  authors:
+    Suprit Singh and S. Chakraborty
+  link:
+    url: https://arxiv.org/abs/1404.0684
+    display: Phys.Rev.D 90 (2014) 2, 024011
+  highlight: 0
+
+- title: Evolution of quantum field, particle content and classicality in the three stage universe
+  image: 
+  description:
+  authors:
+    Suprit Singh, Sujoy Kumar Modak, and T. Padmanabhan
+  link:
+    url: https://arxiv.org/abs/1308.4976
+    display: Phys.Rev.D 88 (2013) 12, 125020
+  highlight: 0
+
+- title: Quantum field theory in de Sitter and quasi–de Sitter spacetimes revisited
+  image: 
+  description:
+  authors:
+    Suprit Singh, Chandrima Ganguly, and T. Padmanabhan
+  link:
+    url: https://arxiv.org/abs/1302.7177
+    display: Phys.Rev.D 87 (2013) 10, 104004
+  highlight: 0
+
+- title: Complex Effective Path -- A Semi-Classical Probe of Quantum Effects
+  image: 
+  description:
+  authors:
+    Suprit Singh and T. Padmanabhan
+  link:
+    url: https://arxiv.org/abs/1112.6279
+    display: Phys.Rev.D 85 (2012) 025011
+  highlight: 0
