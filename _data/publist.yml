@@ -10,6 +10,16 @@
   # news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
   # news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
+- title: Matter-Geometry entanglement in quantum cosmology
+  image: 
+  description: entanglement.png
+  authors:
+    Viqar Husain and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1907.03776
+    display: Class.Quant.Grav. 37 (2020) 15, 15LT01
+  highlight: 1
+
 - title: Semiclassical cosmology with back reaction the Friedmann-Schrodinger equation and inflation
   image: 
   description: 
@@ -128,6 +138,16 @@
   link:
     url: https://arxiv.org/abs/1308.4976
     display: Phys.Rev.D 88 (2013) 12, 125020
+  highlight: 0
+
+- title: New perspectives on Hawking Radiation
+  image: 
+  description:
+  authors:
+    Matteo Smerlak and Suprit Singh
+  link:
+    url: https://arxiv.org/abs/1304.2858
+    display: Phys.Rev.D 88 (2013) 10, 104023
   highlight: 0
 
 - title: Quantum field theory in de Sitter and quasi–de Sitter spacetimes revisited
