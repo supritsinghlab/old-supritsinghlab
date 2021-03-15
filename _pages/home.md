@@ -78,8 +78,6 @@ Our reseach spans two categories:
 
 Located within the Department of Physics at IIT Delhi which is a vibrant community of people enthusiastically working on problems of science and society.
 
- **We are looking for passionate new Postdocs, PhD, Master and Bachelor students to join the team!**<!-- [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) -->
-
 
 We are grateful for funding from IIT Delhi.
 
