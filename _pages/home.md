@@ -74,7 +74,7 @@ Our reseach spans two categories:
 
 <span>&#8463;</span> = 0: What is the dynamics and structure of magnetic fields in galaxies and IGM? Is our Universe expanding at a faster and faster rate? What was the dynamics of Early Universe? We probe the cosmos with multi-wavelength astronomy, modelling, simulations and theoretical insights. 
 
-Apart from this we are have a penchant for instrumentation and data acquisition tasks in optical astronomy and allied areas such as computational imaging. A personal blog of Astronomy images can be found on instagram at the channel<a href="https://www.instagram.com/astrodelhights/">astrodelhights</a>.
+Apart from this we are have a penchant for instrumentation and data acquisition tasks in optical astronomy and allied areas such as computational imaging. A personal blog of Astronomy images can be found on instagram at the channel: <a href="https://www.instagram.com/astrodelhights/">astrodelhights</a>.
 
 <!-- For more details see [Research](research). -->
 
