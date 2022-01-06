@@ -10,18 +10,42 @@
 
 - name: Prakhar Bangaria
   photo: rock.jpg
-  info: Project -- Positional Astronomy
+  info: Projects: 1. Positional Astronomy and 2. Determination of the Hubble Parameter with FRBs
   number_educ: 1
-  education1: B. Tech Engineering Physics III year
+  education1: B. Tech Engineering Physics
+  
+- name: Sibasish Mishra
+  photo: rock.jpg
+  info: Projects: 
+  number_educ: Determination of the Hubble Parameter with FRBs
+  education1: B. Tech Engineering Physics
 
 - name: Rahul Singh
   photo: rock.jpg
-  info: Project -- Numerical solution of Time-dependent Schr<span>&#246;</span>dinger equation
+  info: Project:  Numerical solution of Time-dependent Schr<span>&#246;</span>dinger equation
   number_educ: 1
-  education1: B. Tech Engineering Physics III year
+  education1: B. Tech Engineering Physics
 
 - name: Sonakshi Gupta
   photo: rock.jpg
-  info: Project -- Constrained Hamiltonian Systems and Higher Derivative Lagrangians
+  info: Projects: 1. Constrained Hamiltonian Systems and Higher Derivative Lagrangians, 2. Inflationary Physics and Cosmological Perturbation Theory, and 3. Determination of the Hubble Parameter with SN observations
   number_educ: 1
-  education1: B. Tech Engineering Physics III year
+  education1: B. Tech Engineering Physics
+  
+- name: Sukanya Ghoshal
+  photo: rock.jpg
+  info: Projects: 1. Inflationary Physics and Cosmological Perturbation Theory and 2. Vacuum Polarization for scalar QED in dS space
+  number_educ: 1
+  education1: B. Tech Engineering Physics
+  
+- name: Ishan Jain
+  photo: rock.jpg
+  info: Projects: Determination of the Hubble Parameter with SN observations
+  number_educ: 1
+  education1: B. Tech Electrical Engineering
+  
+- name: Harsh Joon
+  photo: rock.jpg
+  info: Projects: Hydrodynamic Equilibrium in Stellar Systems
+  number_educ: 1
+  education1: M.Sc. Physics
